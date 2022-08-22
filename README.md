@@ -1,2 +1,2 @@
-# MD_thesis_sm
+# PhD_thesis_sm
 Thesis Supplementary Materials
